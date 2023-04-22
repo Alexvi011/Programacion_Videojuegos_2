@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 52500e63ea6e7524295c7a5d65e8894c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - golpea: {fileID: 8300000, guid: f5e23334ae55dc040949ebfb4c1727fa, type: 3}
+  - "da\xF1o": {fileID: 8300000, guid: 1dff78adfd5042040806b295da86a419, type: 3}
+  - normal: {fileID: 8300000, guid: 1c4159dacdc46b740930c5d0ae15227f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

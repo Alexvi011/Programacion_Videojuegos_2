@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2023-03-17T20:39:57.794-06:00
+  initializedAtString: 2023-03-17T20:29:09.345-06:00
+  log:
+  - commitID: 00eb626c21ac1a83aa362fc96a29fce33ebf9859
+    mergeA: 
+    mergeB: 
+    authorName: Alexvi011
+    authorEmail: alejandropvite@gmail.com
+    commitEmail: alejandropvite@gmail.com
+    commitName: Alexvi011
+    summary: Initial commit
+    description: 
+    timeString: 2023-03-17T20:29:06.000-06:00
+    commitTimeString: 2023-03-17T20:29:06.000-06:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Alex\Desktop\Proyecto1\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\Alex\Desktop\Proyecto1\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\Alex\Desktop\Proyecto1\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
